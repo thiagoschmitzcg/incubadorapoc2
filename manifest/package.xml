@@ -123,6 +123,10 @@
 		<name>PermissionSet</name>
 	</types>
 	<types>
+		<members>Admin</members>
+		<name>Profile</name>
+	</types>
+	<types>
 		<members>Create_Example_Data</members>
 		<name>QuickAction</name>
 	</types>
