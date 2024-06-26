@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Family_Fun</fullName>
+    <columns>NAME</columns>
+    <columns>Total_Rooms__c</columns>
+    <columns>Price_x_night__c</columns>
+    <columns>Total_Bathrooms__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Total_Rooms__c</field>
+        <operation>greaterThan</operation>
+        <value>2</value>
+    </filters>
+    <label>Family fun</label>
+</ListView>
