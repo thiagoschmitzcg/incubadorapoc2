@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>User_AirBnb__c</fullName>
+    <externalId>false</externalId>
+    <label>User_AirBnb</label>
+    <referenceTo>User_AirBnb__c</referenceTo>
+    <relationshipLabel>Favorites</relationshipLabel>
+    <relationshipName>Favorites</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
